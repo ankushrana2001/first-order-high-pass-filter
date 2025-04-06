@@ -40,24 +40,6 @@ This virtual lab project demonstrates how to design and analyze the frequency re
 
 ---
 
-## 📈 Theoretical Background
-
-- **Filter Type:** First-order Butterworth High Pass Filter
-- **Op-Amp Used:** IC 741
-- **Cut-off Frequency Formula:**  
-  \[
-  f_c = \frac{1}{2\pi RC}
-  \]
-
-- **Voltage Gain Equation:**  
-  \[
-  A_v = \frac{V_{\text{out}}}{V_{\text{in}}} = \frac{A_F \left(\frac{f}{f_c}\right)}{\sqrt{1 + \left(\frac{f}{f_c}\right)^2}}
-  \]
-
-- **Frequency Response:** Passes high frequencies while attenuating low frequencies. The gain increases with frequency beyond the cut-off.
-
----
-
 ## 🎥 Tutorial Video
 
 Watch the full video tutorial on YouTube:  
