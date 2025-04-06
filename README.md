@@ -3,10 +3,8 @@
 ## 📍 Project Title:
 **Design and Analysis of a First-Order Active Butterworth High Pass Filter**
 
-## 🏫 Institution:
-**Acharya Narendra Dev College**  
-**University of Delhi**  
-**Department of Electronics**
+## 🏫 Institution: 
+**Department of Electronics, Acharya Narendra Dev College, University of Delhi**
 
 ## 👨‍🏫 Teacher Coordinators:
 - Prof. Amit Garg  
@@ -70,13 +68,15 @@ Watch the full video tutorial on YouTube:
 ## 🖼️ Screenshots
 
 ### 1. Circuit Diagram  
-![](figure%201%20HPF.png)
+![figure 1 HPF](https://github.com/user-attachments/assets/2735fa60-b4cd-4dcb-adfb-2f233bdeaa14)
+
 
 ### 2. Frequency Response  
-![](Graph%20HPF.png)
+![Graph HPF](https://github.com/user-attachments/assets/c7547ee2-9bea-413f-8b24-3b2b054675da)
+
 
 ### 3. Gain Equation  
-![](Voltage%20gain%20HPF.png)
+![Voltage gain HPF](https://github.com/user-attachments/assets/e3d2bea0-b89c-49ca-a134-5b231a5245d2)
 
 ---
 
